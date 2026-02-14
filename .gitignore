@@ -1,2 +1,1 @@
 echo ".env.dev" >> .gitignore
-git add .gitignore
